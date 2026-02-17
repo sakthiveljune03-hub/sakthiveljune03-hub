@@ -70,11 +70,11 @@ To secure a challenging internship opportunity where I can apply my technical sk
 🔹 Contribute to Open Source
 
 📫 Connect With Me
-💼 LinkedIn: (Add your LinkedIn link here)
+💼 LinkedIn: https://www.linkedin.com/in/sakthivel-r-68522b366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-💻 GitHub: (Add your GitHub profile link here)
+💻 GitHub: 
 
-📧 Email: (Add your professional email here)
+📧 Email: sakthivel.june03@gmail.com
 
 <!--
 **sakthiveljune03-hub/sakthiveljune03-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
