@@ -72,7 +72,7 @@ To secure a challenging internship opportunity where I can apply my technical sk
 📫 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/sakthivel-r-68522b366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-💻 GitHub: 
+💻 GitHub: https://github.com/dashboard
 
 📧 Email: sakthivel.june03@gmail.com
 
